@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhasmita07sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="subhasmita07sahoo" /> </p>
 
-- 🔭 I’m currently working on [BlogFolio](https://github.com/Subhasmita07Sahoo/BlogFolio)
-
-- 🌱 I’m currently learning **Next.js , DevOps , Web3**
-
 - 📫 How to reach me **subha.sahoo1127@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
